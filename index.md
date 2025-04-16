@@ -19,3 +19,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var chill = "I'm just a chill guy";
 ```
+Imma make a task-list for chill guys like us fr.
+- [x] I am a chill guy.
+- [ ] You are a chill guy.
+- [ ] We are chill guys.
